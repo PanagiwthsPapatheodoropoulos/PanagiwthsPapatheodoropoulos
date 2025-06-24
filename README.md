@@ -33,14 +33,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=panagiotis-papathheodoropoulos&theme=onedark&column=7&no-frame=true" />
-</p>
-
----
-
 ### 💬 About Me
 
 ```yaml
