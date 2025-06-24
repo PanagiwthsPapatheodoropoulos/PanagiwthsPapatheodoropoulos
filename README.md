@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Hi there 👋, I'm Panagiotis Papathheodoropoulos
+  Hi there 👋, I'm Panagiotis Papatheodoropoulos
 </h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Lifelong+Learner;Tech+Enthusiast+%F0%9F%94%BB;Problem+Solver" alt="Typing SVG" />
@@ -36,7 +36,7 @@
 ### 💬 About Me
 
 ```yaml
-name: Panagiotis Papathheodoropoulos
+name: Panagiotis Papatheodoropoulos
 role: Fullstack Developer
 focus: Building scalable, beautiful, and robust applications
 ```
