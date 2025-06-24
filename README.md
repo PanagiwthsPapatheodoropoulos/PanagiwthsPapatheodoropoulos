@@ -39,3 +39,11 @@
 name: Panagiotis Papathheodoropoulos
 role: Fullstack Developer
 focus: Building scalable, beautiful, and robust applications
+```
+
+---
+
+
+### ✨ Fun Fact:
+
+> 🧠 I automate things just to save 3 seconds… then spend 3 hours perfecting the automation.
