@@ -37,6 +37,5 @@
 
 ```yaml
 name: Panagiotis Papathheodoropoulos
-from: Greece 🇬🇷
 role: Fullstack Developer
 focus: Building scalable, beautiful, and robust applications
