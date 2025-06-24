@@ -1,17 +1,14 @@
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 <h1 align="center">
   Hi there 👋, I'm Panagiotis Papatheodoropoulos
 </h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="200" />
+</p>
+
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Lifelong+Learner;Tech+Enthusiast+%F0%9F%94%BB;Problem+Solver" alt="Typing SVG" />
 </h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=panagiotis-papathheodoropoulos&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 ---
 
