@@ -29,7 +29,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,java,spring,python,cpp,c,html,css,js,ts,php,mongodb,mysql,postgres,docker,bash,linux,git,tailwind,bootstrap,matlab,sqlite,pandas,scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,java,spring,python,cpp,c,html,css,js,ts,php,mongodb,mysql,postgres,docker,bash,linux,git,tailwind,bootstrap,matlab,sqlite,pandas,scikit-learn" />
 </p>
 
 ---
