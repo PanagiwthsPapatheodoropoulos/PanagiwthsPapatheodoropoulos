@@ -39,6 +39,6 @@
 ```yaml
 professional_profile:
   role: Full Stack Software Engineer
-  current_focus: Microservices, Micro-frontends & Cloud Scalability
+  current_focus: Microservices & Cloud Scalability
   core_philosophy: Building robust, maintainable and high-performance systems
   technical_interests: System Architecture, AI-Driven Optimization, DevOps
